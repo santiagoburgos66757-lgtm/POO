@@ -32,4 +32,4 @@ public class ExecutivePlusCommissionEmployee extends BasePlusCommissionEmployee 
    public String toString() {
       return String.format("%s con Beneficios Ejecutivos %.2f", super.toString(), getAllowance());
    }
-}// Content of BasePlusCommissionEmployee.java from main branch
+}
